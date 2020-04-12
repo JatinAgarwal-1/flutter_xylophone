@@ -7,7 +7,7 @@
 
 We’re going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
+![Finished App](https://github.com/JatinAgarwal-1/images/blob/master/xylophone-flutter.png)
 
 ## What you will learn
 
@@ -17,4 +17,4 @@ We’re going to make a music app that plays Xylophone sounds. For every Beethov
 - How to use Dart functions that can take input arguments as well as return an output.
 - Dart arrow syntax for writing one line functions.
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+![End Banner](https://github.com/JatinAgarwal-1/images/blob/master/readme-end-banner.png)
